@@ -10,4 +10,6 @@
 - rails g scaffold Article title:string description:text
 - rails db:migrate
 
+## configure [Bootstrap 3 for Sass](https://github.com/twbs/bootstrap-sass)
+
 
